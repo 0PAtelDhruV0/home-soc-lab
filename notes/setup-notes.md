@@ -15,11 +15,9 @@ Use Host-Only Adapter or NAT Network so the VMs can communicate.
 ## Lab IP Notes
 Record your IP addresses here:
 
-Windows VM IP:
-
-Ubuntu/Splunk VM IP:
-
-Kali VM IP:
+- Windows VM IP:
+- Ubuntu/Splunk VM IP:
+- Kali VM IP:
 
 ## Important Ports
 - Splunk Web: 8000
