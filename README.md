@@ -85,5 +85,5 @@ Add screenshots in the `/screenshots` folder:
 ## What I Learned
 This lab helped me understand how SOC analysts collect logs, investigate suspicious activity, and create basic detections using SIEM tools.
 
-## Resume Bullet
+## What I Built
 Built a Home SOC Lab using Splunk, Sysmon, and Windows Event Logs to collect, analyze, and detect suspicious activities including failed logins, PowerShell execution, and new user creation.
