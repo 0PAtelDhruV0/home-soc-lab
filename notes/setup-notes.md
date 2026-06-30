@@ -16,7 +16,9 @@ Use Host-Only Adapter or NAT Network so the VMs can communicate.
 Record your IP addresses here:
 
 Windows VM IP:
+
 Ubuntu/Splunk VM IP:
+
 Kali VM IP:
 
 ## Important Ports
